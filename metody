@@ -22,7 +22,6 @@ function nejvetsiCislo(poleCisel) {
     return Math.max(poleCisel);
 }
 
-
 function delkaPole(arr) {
     return arr.length;
 }
