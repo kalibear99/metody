@@ -1,0 +1,39 @@
+function ScitaniCisel (let a, b){
+return a + b;
+}
+
+function OdcitaniCisel (let a, b){
+return a - b;
+}
+
+function NasobeniCisel (let a, b){
+return a * b; 
+}
+
+function DeleniCisel (let a, b){
+return a / b;
+}
+
+function sudost (a){
+return a % 2
+}
+
+function nejvetsiCislo(poleCisel) {
+    return Math.max(poleCisel);
+}
+
+let numbers = [1, 2, 3];
+numbers.push(4);
+console.log(numbers);
+
+function delkaPole(arr) {
+    return arr.length;
+}
+
+for (let i = 0; i < 5; i++) {
+    console.log(i);
+}
+
+for (let i = 2; i <= 10; i += 2) {
+    console.log(i);
+}
